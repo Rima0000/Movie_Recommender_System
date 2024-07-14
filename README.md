@@ -11,5 +11,9 @@ Features:
 
 
 User-based filtering: Recommends movies based on what similar users have liked.
+
+
 Item-based filtering: Suggests movies similar to the ones a user has enjoyed.
+
+
 Content-based filtering: Provides recommendations based on movie metadata like genre, director, and cast.Hybrid model: Combines multiple recommendation strategies for better accuracy.
